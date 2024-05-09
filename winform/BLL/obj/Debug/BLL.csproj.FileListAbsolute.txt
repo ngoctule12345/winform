@@ -1,0 +1,10 @@
+C:\tlam6\c3 bai 1\PersonalTracking\BLL\bin\Debug\BLL.dll
+C:\tlam6\c3 bai 1\PersonalTracking\BLL\bin\Debug\BLL.pdb
+C:\tlam6\c3 bai 1\PersonalTracking\BLL\bin\Debug\DAL.dll
+C:\tlam6\c3 bai 1\PersonalTracking\BLL\bin\Debug\DAL.pdb
+C:\tlam6\c3 bai 1\PersonalTracking\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\tlam6\c3 bai 1\PersonalTracking\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\tlam6\c3 bai 1\PersonalTracking\BLL\obj\Debug\BLL.dll
+C:\tlam6\c3 bai 1\PersonalTracking\BLL\obj\Debug\BLL.pdb
+C:\tlam6\c3 bai 1\PersonalTracking\BLL\bin\Debug\DAL.dll.config
+C:\tlam6\c3 bai 1\PersonalTracking\BLL\obj\Debug\BLL.csproj.Up2Date
